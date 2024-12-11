@@ -1,5 +1,5 @@
 ### Excel Projects
-Example 1:  
+*Example 1:*  
 
 **Data Cleaning**, usage of **XLOOKUP** function, **INDEX** function, **MATCH** function, **IF** function, creation of **Pivot Table** and **Dashboard**
 
@@ -12,7 +12,9 @@ Example 1:
 
 See the [Sample Excel File for Analysis of Coffee Sales Data](https://github.com/AYSE-GOCER/Excel/blob/main/Excel%20Project%202%20CoffeOrdersData.xlsx)
 
-Example 2: 
+
+
+*Example 2:*
 
 **INDEX** function, creation of **drop-down list**, **specific print area** set up, **EDATE** funtion to quickly add or subtract months from a date, combining cells into one cell.
 
