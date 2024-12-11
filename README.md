@@ -7,4 +7,4 @@ See the [Sample Excel File for Analysis Certificate.xlsx](https://github.com/AYS
 
 Example 2:  **INDEX** function, **MATCH** function, **IF** function, creation of **Pivot Table** and **Dashboard**
 
-See the [Sample Excel File 2](https://github.com/AYSE-GOCER/Excel/blob/main/Excel%20Project%202%20CoffeOrdersData.xlsx)
+See the [Sample Excel File for Analysis of Coffee Sales Data](https://github.com/AYSE-GOCER/Excel/blob/main/Excel%20Project%202%20CoffeOrdersData.xlsx)
